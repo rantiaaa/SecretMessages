@@ -1,2 +1,2 @@
 # SecretMessages
-Encoder and Decoder message application using C++
+Encoder and Decoder message application using C language
